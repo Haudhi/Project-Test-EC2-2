@@ -1,0 +1,15 @@
+mode: set
+be7/layered/usecase/auth/auth.go:11.92,15.2 1 1
+be7/layered/usecase/auth/auth.go:17.78,20.2 2 1
+be7/layered/usecase/book/book.go:12.92,16.2 1 1
+be7/layered/usecase/book/book.go:18.60,21.2 2 1
+be7/layered/usecase/book/book.go:23.84,26.2 2 1
+be7/layered/usecase/book/book.go:28.92,31.2 2 1
+be7/layered/usecase/book/book.go:33.50,36.2 2 1
+be7/layered/usecase/book/book.go:40.69,43.2 2 1
+be7/layered/usecase/user/user.go:12.92,16.2 1 1
+be7/layered/usecase/user/user.go:18.60,21.2 2 1
+be7/layered/usecase/user/user.go:23.84,26.2 2 1
+be7/layered/usecase/user/user.go:28.92,31.2 2 1
+be7/layered/usecase/user/user.go:33.50,36.2 2 1
+be7/layered/usecase/user/user.go:40.69,43.2 2 1
